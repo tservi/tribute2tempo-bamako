@@ -1,12 +1,17 @@
+See http://www.tempo-bamako.ch for more details.
+
+HumanitÃ© indivisible :
+----------------------
+
 Tous les humains sur la terre
-Sont nés d’une même mére
+Sont nÃ©s d'une mÃªme mÃ¨re
 Nous sommes tous les enfants de la vie
-De la naissance jusqu’à l’agonie.
+De la naissance jusqu'Ã  l'agonie.
 Ne parlons pas de la mort
-On en causera au cimetière
+On en causera au cimetiÃ¨re
 Partageons sans remords
 Et soyons en fiers
-Nous avons tous nos rêves
+Nous avons tous nos rÃªves
 Nous avons tous nos vies
-De nos rôles faisons la grève
-Pour qu’il y ait une vie après notre vie
+De nos rÃ´les faisons la grÃ¨ve
+Pour qu'il y ait une vie aprÃ¨s notre vie.
