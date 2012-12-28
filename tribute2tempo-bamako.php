@@ -15,17 +15,17 @@ Author URI: http://www.t-servi.com
 function humanite_indivisible_get_lyric() {
 	/** These are the lyrics 		 */
 	$lyrics = "Tous les humains sur la terre
-Sont nés d'une même mère
+Sont nï¿½s d'une mï¿½me mï¿½re
 Nous sommes tous les enfants de la vie
-De la naissance jusqu'à  l'agonie.
+De la naissance jusqu'ï¿½  l'agonie.
 Ne parlons pas de la mort
-On en causera au cimetière
+On en causera au cimetiï¿½re
 Partageons sans remords
 Et soyons en fiers
-Nous avons tous nos rèves
+Nous avons tous nos rï¿½ves
 Nous avons tous nos vies
-De nos rôles faisons la grève
-Pour qu'il y ait une vie après notre vie";
+De nos rï¿½les faisons la grï¿½ve
+Pour qu'il y ait une vie aprï¿½s notre vie";
 
 	// Here we split it into lines
 	$lyrics = explode("\n", $lyrics);
@@ -37,7 +37,7 @@ Pour qu'il y ait une vie après notre vie";
 // This just echoes the chosen line, we'll position it later
 function humanite_indivisible() {
 	$chosen = humanite_indivisible_get_lyric();
-	echo "<p id='humanite_indivisible'><a href='http://http://www.tempo-bamako.ch/wordpress/?p=1305'>$chosen</a></p>";
+	echo "<p id='humanite_indivisible'><a href='http://www.tempo-bamako.ch/wordpress/?p=1305'>$chosen</a></p>";
 }
 
 // Now we set that function up to execute when the admin_footer action is called
